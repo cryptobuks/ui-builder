@@ -1,0 +1,17 @@
+.create-page-title{
+    text-align: center;
+    color: rgb(73, 71, 71);
+}
+
+.lightGrey {
+    color: lightgray;
+}
+
+.canvas-box {
+   color: rgb(18, 138, 138);
+}
+.center-text {
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 300px;
+}
